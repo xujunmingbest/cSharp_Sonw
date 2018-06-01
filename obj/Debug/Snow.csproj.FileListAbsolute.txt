@@ -1,0 +1,72 @@
+C:\Documents and Settings\ndu\My Documents\Visual Studio 2008\Projects\Snow\Snow\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ndu\My Documents\Visual Studio 2008\Projects\Snow\Snow\obj\Debug\Snow.Properties.Resources.resources
+C:\Documents and Settings\ndu\My Documents\Visual Studio 2008\Projects\Snow\Snow\obj\Debug\Snow.csproj.GenerateResource.Cache
+C:\Documents and Settings\ndu\My Documents\Visual Studio 2008\Projects\Snow\Snow\obj\Debug\Snow.Form1.resources
+C:\Documents and Settings\ndu\My Documents\Visual Studio 2008\Projects\Snow\Snow\bin\Debug\Snow.exe
+C:\Documents and Settings\ndu\My Documents\Visual Studio 2008\Projects\Snow\Snow\bin\Debug\Snow.pdb
+C:\Documents and Settings\ndu\My Documents\Visual Studio 2008\Projects\Snow\Snow\obj\Debug\Snow.exe
+C:\Documents and Settings\ndu\My Documents\Visual Studio 2008\Projects\Snow\Snow\obj\Debug\Snow.pdb
+C:\Documents and Settings\ndu\Desktop\Snow\Snow\obj\Debug\Snow.exe
+C:\Documents and Settings\ndu\Desktop\Snow\Snow\obj\Debug\Snow.pdb
+C:\Documents and Settings\ndu\Desktop\Snow\Snow\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ndu\Desktop\Snow\Snow\obj\Debug\Snow.Form1.resources
+C:\Documents and Settings\ndu\Desktop\Snow\Snow\obj\Debug\Snow.Properties.Resources.resources
+C:\Documents and Settings\ndu\Desktop\Snow\Snow\obj\Debug\Snow.csproj.GenerateResource.Cache
+C:\Documents and Settings\ndu\Desktop\Snow\Snow\bin\Debug\Snow.exe
+C:\Documents and Settings\ndu\Desktop\Snow\Snow\bin\Debug\Snow.pdb
+D:\360data\重要数据\桌面\Snow\Snow\obj\Debug\Snow.exe
+D:\360data\重要数据\桌面\Snow\Snow\obj\Debug\Snow.pdb
+D:\360data\重要数据\桌面\Snow\Snow\bin\Debug\Snow.exe
+D:\360data\重要数据\桌面\Snow\Snow\bin\Debug\Snow.pdb
+D:\360data\重要数据\桌面\Snow\Snow\obj\Debug\ResolveAssemblyReference.cache
+D:\360data\重要数据\桌面\Snow\Snow\obj\Debug\Snow.Form1.resources
+D:\360data\重要数据\桌面\Snow\Snow\obj\Debug\Snow.Properties.Resources.resources
+D:\360data\重要数据\桌面\Snow\Snow\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\360data\重要数据\桌面\Snow\Snow\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\obj\Debug\Snow.exe
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\obj\Debug\Snow.pdb
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\bin\Debug\Resources\1.gif
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\bin\Debug\Resources\2.gif
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\bin\Debug\Resources\3.gif
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\bin\Debug\Resources\4.gif
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\bin\Debug\Snow.exe
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\bin\Debug\Snow.pdb
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\obj\Debug\ResolveAssemblyReference.cache
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\obj\Debug\Snow.Form1.resources
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\obj\Debug\Snow.Properties.Resources.resources
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\临时文件\桌面飘雪源码\Excise_DesktopSnow\Snow\obj\Debug\Snow.exe
+C:\Documents and Settings\Administrator\桌面\临时文件\桌面飘雪源码\Excise_DesktopSnow\Snow\obj\Debug\Snow.pdb
+C:\Documents and Settings\Administrator\桌面\临时文件\桌面飘雪源码\Excise_DesktopSnow\Snow\bin\Debug\Resources\1.gif
+C:\Documents and Settings\Administrator\桌面\临时文件\桌面飘雪源码\Excise_DesktopSnow\Snow\bin\Debug\Resources\2.gif
+C:\Documents and Settings\Administrator\桌面\临时文件\桌面飘雪源码\Excise_DesktopSnow\Snow\bin\Debug\Resources\3.gif
+C:\Documents and Settings\Administrator\桌面\临时文件\桌面飘雪源码\Excise_DesktopSnow\Snow\bin\Debug\Resources\4.gif
+C:\Documents and Settings\Administrator\桌面\临时文件\桌面飘雪源码\Excise_DesktopSnow\Snow\bin\Debug\Snow.exe
+C:\Documents and Settings\Administrator\桌面\临时文件\桌面飘雪源码\Excise_DesktopSnow\Snow\bin\Debug\Snow.pdb
+C:\Documents and Settings\Administrator\桌面\临时文件\桌面飘雪源码\Excise_DesktopSnow\Snow\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\临时文件\桌面飘雪源码\Excise_DesktopSnow\Snow\obj\Debug\Snow.Form1.resources
+C:\Documents and Settings\Administrator\桌面\临时文件\桌面飘雪源码\Excise_DesktopSnow\Snow\obj\Debug\Snow.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\临时文件\桌面飘雪源码\Excise_DesktopSnow\Snow\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\临时文件\桌面飘雪源码\Excise_DesktopSnow\Snow\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator.PC-20120721KORW\Desktop\ym_cs-DesktopSnow_hicode\obj\Debug\Snow.exe
+C:\Users\Administrator.PC-20120721KORW\Desktop\ym_cs-DesktopSnow_hicode\obj\Debug\Snow.pdb
+C:\Users\Administrator.PC-20120721KORW\Desktop\ym_cs-DesktopSnow_hicode\bin\Debug\Snow.exe
+C:\Users\Administrator.PC-20120721KORW\Desktop\ym_cs-DesktopSnow_hicode\bin\Debug\Snow.pdb
+C:\Users\Administrator.PC-20120721KORW\Desktop\ym_cs-DesktopSnow_hicode\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.PC-20120721KORW\Desktop\ym_cs-DesktopSnow_hicode\obj\Debug\Snow.Form1.resources
+C:\Users\Administrator.PC-20120721KORW\Desktop\ym_cs-DesktopSnow_hicode\obj\Debug\Snow.Properties.Resources.resources
+C:\Users\Administrator.PC-20120721KORW\Desktop\ym_cs-DesktopSnow_hicode\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator.PC-20120721KORW\Desktop\ym_cs-DesktopSnow_hicode\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator.PC-20120721KORW\Desktop\ym_cs-DesktopSnow_hicode\bin\Debug\Resources\1.png
+C:\Users\Administrator.PC-20120721KORW\Desktop\ym_cs-DesktopSnow_hicode\bin\Debug\Resources\2.png
+C:\Users\Administrator.PC-20120721KORW\Desktop\ym_cs-DesktopSnow_hicode\obj\Debug\Snow.Resource.resources
+C:\Users\Administrator.PC-20120721KORW\Desktop\ym_cs-DesktopSnow_hicode\obj\Debug\Snow.Form2.resources
+C:\Users\Administrator.PC-20120721KORW\Desktop\ym_cs-DesktopSnow_hicode\bin\Debug\Snow.exe.config
+C:\Users\Administrator.PC-20120721KORW\Desktop\ym_cs-DesktopSnow_hicode\bin\Debug\Snow.exe.manifest
+C:\Users\Administrator.PC-20120721KORW\Desktop\ym_cs-DesktopSnow_hicode\bin\Debug\Snow.application
+C:\Users\Administrator.PC-20120721KORW\Desktop\ym_cs-DesktopSnow_hicode\obj\Debug\Snow.exe.manifest
+C:\Users\Administrator.PC-20120721KORW\Desktop\ym_cs-DesktopSnow_hicode\obj\Debug\Snow.application
+D:\NET\TestNew\雪花\bin\Debug\Snow.exe.config
+D:\NET\TestNew\雪花\obj\Debug\Snow.exe
+D:\NET\TestNew\雪花\obj\Debug\Snow.pdb
